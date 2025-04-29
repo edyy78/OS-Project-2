@@ -1,0 +1,14 @@
+C:\Users\delta\source\repos\OS Project 2\OS Project 2\bin\Debug\net8.0\OS Project 2.exe
+C:\Users\delta\source\repos\OS Project 2\OS Project 2\bin\Debug\net8.0\OS Project 2.deps.json
+C:\Users\delta\source\repos\OS Project 2\OS Project 2\bin\Debug\net8.0\OS Project 2.runtimeconfig.json
+C:\Users\delta\source\repos\OS Project 2\OS Project 2\bin\Debug\net8.0\OS Project 2.dll
+C:\Users\delta\source\repos\OS Project 2\OS Project 2\bin\Debug\net8.0\OS Project 2.pdb
+C:\Users\delta\source\repos\OS Project 2\OS Project 2\obj\Debug\net8.0\OS Project 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\delta\source\repos\OS Project 2\OS Project 2\obj\Debug\net8.0\OS Project 2.AssemblyInfoInputs.cache
+C:\Users\delta\source\repos\OS Project 2\OS Project 2\obj\Debug\net8.0\OS Project 2.AssemblyInfo.cs
+C:\Users\delta\source\repos\OS Project 2\OS Project 2\obj\Debug\net8.0\OS Project 2.csproj.CoreCompileInputs.cache
+C:\Users\delta\source\repos\OS Project 2\OS Project 2\obj\Debug\net8.0\OS Project 2.dll
+C:\Users\delta\source\repos\OS Project 2\OS Project 2\obj\Debug\net8.0\refint\OS Project 2.dll
+C:\Users\delta\source\repos\OS Project 2\OS Project 2\obj\Debug\net8.0\OS Project 2.pdb
+C:\Users\delta\source\repos\OS Project 2\OS Project 2\obj\Debug\net8.0\OS Project 2.genruntimeconfig.cache
+C:\Users\delta\source\repos\OS Project 2\OS Project 2\obj\Debug\net8.0\ref\OS Project 2.dll
